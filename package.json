@@ -26,17 +26,17 @@
   "dependencies": {
     "env2": "2.1.1",
     "qs": "6.2.1",
-    "request": "2.74.0"
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "chai": "3.5.0",
-    "commitizen": "2.8.5",
+    "commitizen": "^2.10.1",
     "cz-conventional-changelog": "1.1.7",
-    "debug": "2.2.0",
+    "debug": "^3.1.0",
     "eslint": "3.2.2",
     "eslint-config-google": "0.6.0",
-    "mocha": "3.0.0",
-    "semantic-release": "^4.3.5"
+    "mocha": "^5.2.0",
+    "semantic-release": "^15.9.12"
   },
   "czConfig": {
     "path": "node_modules/cz-conventional-changelog"
